@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #1F1F1F;
+  color: #AFAFAF;
+}
+
+#websiteBody {
+  overflow: scroll;
+}
